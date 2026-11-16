@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://officialprimesun.github.io/sitemap.xml
